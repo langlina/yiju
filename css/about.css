@@ -1,0 +1,486 @@
+#wenhua{
+	width: 538px;
+	height: 430px;
+	margin: 0 auto;
+	/* padding-left: 50px;
+	padding-right: 182px; */
+	position: relative;
+}
+#wenhua h1{
+	font-size: 20px;
+}
+#wenhua h2{
+	font-size: 38px;
+	font-weight: bold;
+}
+#wenhua h3{
+	font-size: 20px;
+	color: #1d1d1d;
+}
+#wenhua h4{
+	font-size: 18px;
+	color: #1d1d1d;
+	margin-top: 16px;
+}#wenhua p{
+	font-size: 14px;
+	color: #7b7b7b;
+	margin-top: 10px;
+}
+.wenhua_tiao{
+	width: 538px;
+	height: 3px;
+	background: linear-gradient(90deg,rgb(245, 200, 19) 20%,rgb(43, 108, 140) 20%,rgb(43, 108, 140) 100%);
+	margin: 20px 0;
+}
+.wenhua_kuang{
+	width: 98px;
+	height: 27px;
+	border: 2px solid #000000;
+	float: left;
+	text-align: center;
+	font-size: 16px;
+	line-height: 27px;
+	font-weight: bold;
+	cursor: pointer;
+	margin-top: 20px;
+}
+.wenhua_kuai{
+	width: 27px;
+	height: 27px;
+	background-color: rgb(43, 108, 140);
+	border-top: 2px solid #000000;
+	border-right: 2px solid #000000;
+	border-bottom: 2px solid #000000;
+	float: left;
+	text-align: center;
+	font-size: 20px;
+	line-height: 27px;
+	font-weight: bold;
+	color: #fff;
+	cursor: pointer;
+	margin-top: 20px;
+}
+.wenhua_beijingh{
+	width: 160px;
+	height: 282px;
+	background-color: rgb(245, 200, 19);
+	position: absolute;
+	top: 0;
+	right: -342px;
+}
+.wenhua_beijing1{
+	width: 344px;
+	height: 372px;
+	position: absolute;
+	top: 0;
+	left: -404px;
+}
+.wenhua_beijing2{
+	width: 240px;
+	height: 434px;
+	position: absolute;
+	top: 10px;
+	right: -432px;
+}
+
+
+#dongtai{
+	width: 1000px;
+	height: 650px;
+	margin: 0 auto;
+	position: relative;
+
+}
+.dongtai_blue{
+	width: 160px;
+	height: 282px;
+	background-color: rgb(43, 108, 140);
+	position: absolute;
+	top: 30px;
+	left: -10px;
+}
+.dongtai_black{
+	width: 1000px;
+	height: 300px;
+	background-color: #000000;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.dongtai_black h1{
+	font-size: 38px;
+	color: #fff;
+	margin-left: 165px;
+	margin-top: 45px;
+	font-weight: bold;
+}
+.dongtai_black h2{
+	font-size: 20px;
+	color: #fff;
+	margin-left: 165px;
+	margin-top: 10px;
+}
+.dongtai_black h3{
+	font-size: 30px;
+	color: #fff;
+	margin-left: 165px;
+	margin-top:5px;
+	font-weight: bold;
+}
+.dongtai_black img{
+	width: 504px;
+	height: 258px;
+	position: absolute;
+	bottom: 0;
+	right: 48px;
+}
+.dongtai_black P{
+	font-size: 124px;
+	color: rgb(43, 108, 140);
+	position: absolute;
+	bottom: -90px;
+	left: 160px;
+}
+.dongtai_kuang{
+	width: 98px;
+	height: 27px;
+	border: 2px solid #000000;
+	float: left;
+	text-align: center;
+	font-size: 16px;
+	line-height: 27px;
+	font-weight: bold;
+	cursor: pointer;
+	position: absolute;
+	top: 550px;
+	left: 166px;
+}
+.dongtai_kuai{
+	width: 27px;
+	height: 27px;
+	background-color: rgb(43, 108, 140);
+	border-top: 2px solid #000000;
+	border-right: 2px solid #000000;
+	border-bottom: 2px solid #000000;
+	float: left;
+	text-align: center;
+	font-size: 20px;
+	line-height: 27px;
+	font-weight: bold;
+	color: #fff;
+	cursor: pointer;
+	position: absolute;
+	top: 550px;
+	left: 268px;
+}
+.dongtai_item{
+	width: 444px;
+	height: 138px;
+	position: absolute;
+	top: 330px;
+	right: 80px;
+}
+.dongtai_item2{
+	width: 444px;
+	height: 138px;
+	border-right: 5px solid rgb(245, 200, 19);
+	box-shadow: 0 0px 43px 1px  rgba(0, 0, 0, 0.2);
+	position: absolute;
+	bottom: 30px;
+	right: 80px;
+}
+.dongtai_item h1{
+	font-size: 20px;
+	line-height: 60px;
+}
+.dongtai_item h2{
+	font-size: 14px;
+	color: #636363;
+}
+.dongtai_item2 h1{
+	font-size: 20px;
+	line-height: 60px;
+}
+.dongtai_item2 h2{
+	font-size: 14px;
+	color: #636363;
+}
+#pinpai{
+	width: 1200px;
+	height: 1033px;
+	margin: 0 auto;
+	position: relative;
+}
+.pinpai_tu1{
+	width: 400px;
+	height: 400px;
+	position: absolute;
+
+}
+.pinpai_item2{
+	width: 400px;
+	height: 400px;
+	background-color: rgb(43, 108, 140);
+	position: absolute;
+	left: 400px;
+}
+.pinpai_item2 h1{
+	font-size: 28px;
+	color: #fff;
+	font-weight: bold;
+	position: absolute;
+	left: 50px;
+	top: 84px;
+}
+.pinpai_item2 h2{
+	font-size: 14px;
+	color: #fff;
+	position: absolute;
+	left: 50px;
+	top: 130px;
+}
+.pinpai_item2 h3{
+	font-size: 14px;
+	color: #fff;
+	font-weight: bold;
+	position: absolute;
+	left: 50px;
+	top: 198px;
+}
+.pinpai_kuang{
+	width: 98px;
+	height: 27px;
+	background-color: #fff;
+	border: 2px solid #000000;
+	float: left;
+	text-align: center;
+	font-size: 16px;
+	line-height: 27px;
+	font-weight: bold;
+	cursor: pointer;
+	position: absolute;
+	bottom: 48px;
+	right: 67px;
+}
+.pinpai_kuai{
+	width: 27px;
+	height: 27px;
+	background-color: rgb(43, 108, 140);
+	border-top: 2px solid #000000;
+	border-right: 2px solid #000000;
+	border-bottom: 2px solid #000000;
+	float: left;
+	text-align: center;
+	font-size: 20px;
+	line-height: 27px;
+	font-weight: bold;
+	color: #fff;
+	cursor: pointer;
+	position: absolute;
+	bottom: 48px;
+	right: 38px;
+}
+.pinpai_tu3{
+	width: 482px;
+	height: 600px;
+	position: absolute;
+	left: 800px;
+	top: 0px;
+}
+.pinpai_tu4{
+	width: 284px;
+	height: 686px;
+	position: absolute;
+	left: -84px;
+	top: 400px;
+}
+.pinpai_tu5{
+	width: 600px;
+	height: 400px;
+	position: absolute;
+	left: 200px;
+	top: 400px;
+}
+.pinpai_item6{
+	width: 482px;
+	height: 400px;
+	background-color: rgb(245, 200, 19);
+	position: absolute;
+	left: 800px;
+	top: 400px;
+}
+.pinpai_tu6{
+	width: 54px;
+	height: 410px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+.pinpai_item6 h1{
+	font-size: 28px;
+	color: #fff;
+	font-weight: bold;
+	text-align: right;
+	position: absolute;
+	right: 114px;
+	top: 84px;
+}
+.pinpai_item6 h2{
+	font-size: 14px;
+	color: #fff;
+	text-align: right;
+	position: absolute;
+	right: 114px;
+	top: 130px;
+}
+.pinpai_item6 h3{
+	font-size: 14px;
+	color: #fff;
+	font-weight: bold;
+	text-align: right;
+	position: absolute;
+	right: 114px;
+	top: 198px;
+}
+.pinpai6_kuang{
+	width: 98px;
+	height: 27px;
+	background-color: #fff;
+	border: 2px solid #000000;
+	float: left;
+	text-align: center;
+	font-size: 16px;
+	line-height: 27px;
+	font-weight: bold;
+	cursor: pointer;
+	position: absolute;
+	bottom: 48px;
+	right: 143px;
+}
+.pinpai6_kuai{
+	width: 27px;
+	height: 27px;
+	background-color: rgb(43, 108, 140);
+	border-top: 2px solid #000000;
+	border-right: 2px solid #000000;
+	border-bottom: 2px solid #000000;
+	float: left;
+	text-align: center;
+	font-size: 20px;
+	line-height: 27px;
+	font-weight: bold;
+	color: #fff;
+	cursor: pointer;
+	position: absolute;
+	bottom: 48px;
+	right: 114px;
+}
+.pinpai_tu7{
+	width: 233px;
+	height: 187px;
+	position: absolute;
+	top: 815px;
+	left: 212px;
+}
+.pinpai_tu8{
+	width: 233px;
+	height: 187px;
+	position: absolute;
+	top: 815px;
+	left: 462px;
+}
+.pinpai_tu9{
+	width: 233px;
+	height: 187px;
+	position: absolute;
+	top: 815px;
+	left: 712px;
+}
+.pinpai_item10{
+	width: 233px;
+	height: 183px;
+	background-color: rgb(43, 108, 140);
+	font-size: 24px;
+	text-align: center;
+	line-height: 183px;
+	color: #fff;
+	position: absolute;
+	top: 816px;
+	left: 962px;
+	cursor: pointer;
+}
+
+
+
+#zeren{
+	width: 1000px;
+	height: 324px;
+	margin: 0 auto;
+	margin-top: 40px;
+	margin-bottom: 80px;
+	position: relative;
+}
+.zeren_left img{
+	width: 515px;
+	height: 324px;
+}
+.zeren_right{
+	width: 405px;
+	height: 324px;
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.zeren_right h1{
+	font-size: 16px;
+	margin-left: 40px;
+}
+.zeren_right h2{
+	font-size: 106px;
+	float: left;
+}
+.zeren_right h3{
+	font-size: 54px;
+	margin-top: 20px;
+	float: left;
+}
+.zeren_right p{
+	font-size: 24px;
+	color: #727272;
+	position: absolute;
+	top: 140px;
+	left: 40px;
+}
+.zeren_kuang{
+	width: 98px;
+	height: 27px;
+	background-color: #fff;
+	border: 2px solid #000000;
+	float: left;
+	text-align: center;
+	font-size: 16px;
+	line-height: 27px;
+	font-weight: bold;
+	cursor: pointer;
+	position: absolute;
+	bottom: 0;
+	left: 40px;
+}
+.zeren_kuai{
+	width: 27px;
+	height: 27px;
+	background-color: rgb(43, 108, 140);
+	border-top: 2px solid #000000;
+	border-right: 2px solid #000000;
+	border-bottom: 2px solid #000000;
+	float: left;
+	text-align: center;
+	font-size: 20px;
+	line-height: 27px;
+	font-weight: bold;
+	color: #fff;
+	cursor: pointer;
+	position: absolute;
+	bottom: 0;
+	left: 142px;
+}

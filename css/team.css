@@ -1,0 +1,130 @@
+#team{
+	width: 1000px;
+	height: 474px;
+	margin: 0 auto;
+	margin-bottom: 82px;
+}
+.team_left{
+	width: 238px;
+	height: 474px;
+	float: left;
+}
+.team_right{
+	width: 762px;
+	height: 474px;
+	float: left;
+}
+.team_tu{
+	width: 150px;
+	height: 228px;
+	float: left;
+	margin-right: 15px;
+	
+}
+.team_item{
+	width: 234px;
+	height: 226px;
+	/* padding-left: 15px; */
+	border-top: 1px solid #EDEDED;
+	border-right: 1px solid #EDEDED;
+	border-bottom: 1px solid #EDEDED;
+	float: left;
+	margin-left: 19px;
+}
+.team_item:hover{
+	cursor: pointer;
+	box-shadow:0 0px 18px 0px rgba(0, 0, 0, 0.4);
+}
+.team_item h1{
+	font-size: 12px;
+	margin-top: 40px;
+}
+.team_item h2{
+	font-size: 20px;
+}
+.team_item_tiao{
+	width: 69px;
+	height: 1px;
+	background: linear-gradient(90deg,#000 30%,#EDEDED 30%,#EDEDED 100%);
+	margin-top: 66px;
+}
+.team_item p{
+	font-size: 14px;
+	color: #8a8a8a;
+	margin-top: 10px;
+}
+
+.team_item2{
+	margin-top: 19px;
+}
+
+.team_item3{
+	margin-left: 0;
+	margin-right: 19px;
+}
+.team_beijing{
+	width: 1200px;
+	height: 127px;
+	margin: 0 auto;
+	background-color: rgb(43, 108, 140);
+	margin-top: 12px;
+	margin-bottom: 18px;
+}
+
+
+
+#jieshao{
+	width: 1020px;
+	height: 390px;
+	margin: 0 auto;
+}
+.jieshao_item{
+	width: 474px;
+	height: 150px;
+	float: left;
+	margin-bottom: 44px;
+}
+.jieshao_item img{
+	width: 134px;
+	height: 150px;
+	float: left;
+	margin-right: 40px;
+}
+.jieshao_item h1{
+	font-size: 36px;
+	color: #767676;
+	font-weight: bold;
+	margin-top: 20px;
+}
+.jieshao_item h2{
+	font-size: 18px;
+	color: #767676;
+	margin-top: 20px;
+}
+.jieshao_item2{
+	margin-left: 72px;
+}
+.jieshao_dian{
+	width: 118px;
+	height: 25px;
+	margin: 20px auto;
+}
+.jieshao_yuan{
+	width: 25px;
+	height: 25px;
+	border-radius: 50%;
+	background-color: #E5E5E5;
+	color: rgb(43, 108, 140);
+	text-align: center;
+	line-height: 25px;
+	float: left;
+	margin-right: 20px;
+}
+.jieshao_yuan2{
+	margin-right: 0;
+}
+.jieshao_yuan:hover{
+	cursor: pointer;
+	background-color: rgb(43, 108, 140);
+	color: #E5E5E5;
+}

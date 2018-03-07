@@ -1,0 +1,100 @@
+#company{
+	width: 1080px;
+	height: 510px;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+.company_title{
+	width: 100%;
+	height: 100px;
+	border-bottom: 2px dashed #000000;
+}
+.company_title img{
+	width: 58px;
+	height: 60px;
+	float: left;
+}
+.company_title h1{
+	width: 56px;
+	font-size: 20px;
+	float: left;
+	color: rgb(43, 108, 140);
+	font-weight: bold;
+	margin-top: 10px;
+	margin-left: 4px;
+}
+.company_title_zi{
+	width: 800px;
+	height: 90px;
+	float: left;
+	margin-left: 40px;
+}
+.company_title_zi h2{
+	font-size: 24px;
+	color: #5b5b5b;
+	font-weight: bold;
+	margin-top: 10px;
+}
+.company_title_zi h3{
+	font-size: 20px;
+	color: #5b5b5b;
+}
+.company_neirong{
+	width: 100%;
+	height: 410px;
+}
+.company_item{
+	width: 100%;
+	height: 20px;
+	padding: 26px 0;
+}
+.company_item_kuai{
+	width: 9px;
+	height: 9px;
+	background-color: #000000;
+	float: left;
+	margin-top: 5px;
+}
+.company_item h1{
+	font-size: 16px;
+	color: #000000; 
+	float: left;
+	margin-left: 15px;
+}
+.company_item h2{
+	font-size: 16px;
+	color: #c3c3c3; 
+	float: left;
+	margin-left: 5px;
+}
+.company_neirong p{
+	width: 960px;
+	font-size: 14px;
+	color: #7a7a7a; 
+	margin-left: 24px;
+}
+.company_neirong h4{
+	width: 960px;
+	font-size: 14px;
+	color: #7a7a7a; 
+	margin-left: 24px;
+	margin-top: 40px;
+}
+
+
+#tupian{
+	width: 100%;
+	height: 384px;
+	position: relative;
+}
+.tupian1{
+	width: 936px;
+	height: 282px;
+}
+.tupian2{
+	width: 1014px;
+	height: 282px;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
